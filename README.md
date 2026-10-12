@@ -1,8 +1,11 @@
 🍕 Pizza Sales Analysis Project
+
 📊 Overview
+
 This project explores pizza sales data using SQL queries to uncover business insights. By analyzing orders, revenue, and customer preferences, I transformed raw data into actionable findings that can help optimize menu strategies, pricing, and marketing.
 
 🔎 Key Insights
+
 📈 21,350 total orders placed
 
 💰 $817,860+ revenue generated
@@ -30,6 +33,7 @@ Thai Chicken (2,371)
 💡 Revenue champion: Thai Chicken Pizza ($43,434+)
 
 🛠️ Skills & Tools
+
 SQL (Joins, Aggregations, Window Functions)
 
 Data Cleaning & Query Optimization
@@ -37,6 +41,7 @@ Data Cleaning & Query Optimization
 Business Intelligence & Revenue Analysis
 
 🚀 Why This Project Matters
+
 This project demonstrates how data storytelling can turn numbers into strategies. Restaurants and food chains can leverage these insights to:
 
 Optimize menu offerings
